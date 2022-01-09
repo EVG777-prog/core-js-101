@@ -16,10 +16,10 @@ module.exports = {
         ecmaVersion: 2018,
     },
     rules: {
-        'indent': 'off',
-        'no-plusplus': 'off',
-        'no-unused-vars': 'off',
-        'no-trailing-spaces': 'off',
+        // 'indent': 'off',
+        // 'no-plusplus': 'off',
+        // 'no-unused-vars': 'off',
+        // 'no-trailing-spaces': 'off',
         // 'space-in-parens': ["error", "always"],
     },
 };
